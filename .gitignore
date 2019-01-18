@@ -15,3 +15,8 @@ Cargo.lock
 fsharp/obj
 fsharp/bin
 
+#
+# Python
+#
+**/*.pyc
+**/*.egg-info/
