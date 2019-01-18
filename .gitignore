@@ -20,3 +20,9 @@ fsharp/bin
 #
 **/*.pyc
 **/*.egg-info/
+
+#
+# C lang
+#
+c/build/*
+
