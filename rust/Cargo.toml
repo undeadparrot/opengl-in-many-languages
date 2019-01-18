@@ -1,0 +1,14 @@
+[package]
+name = "demo"
+version = "0.1.0"
+authors = ["Shane Matuszek <smatuszeksa@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+gl = "0.10.0"
+
+[dependencies.sdl2]
+version = "0.31.0"
+features = ["bundled", "static-link"]
+
+
